@@ -17,8 +17,8 @@
           "client_id": "34f0a61f-1464-4349-b3f5-4d6bc7f34254"
       },
         "transfer": {
-          "collection_id": "a6f165fa-aee2-4fe5-95f3-97429c28bf82",
-          "path": "/portal/catalog/"
+          "collection_id": "feec41d8-74bd-4198-8320-7ee86e29ba25",
+          "path": "/"
         }
       }
     }
