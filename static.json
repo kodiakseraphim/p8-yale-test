@@ -11,7 +11,7 @@
         "title": "P8 Data Portal Test",
         "privacy_policy": "This is an example privacy policy – you should replace this with your own policy.",
         "terms_of_service": "This is an example terms of service – you should replace this with your own terms.",
-        "image": "Light_Blue.jpg"
+        "image": "https://github.com/kodiakseraphim/p8-yale-test/blob/18c66b282fe00c404651fdf102524270255fee27/Light-Blue.jpg"
       },
       "globus": {
         "application": {
